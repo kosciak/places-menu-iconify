@@ -1,0 +1,11 @@
+{
+  "name": "Places Status Indicator Iconify",
+  "description": "Replace Places Status Indicator label with an icon.",
+  "uuid": "places-menu-iconify@kosciak.net",
+  "gettext-domain": "places-menu-iconify",
+  "settings-schema": "org.gnome.shell.extensions.places-menu-iconify",
+  "version": 1,
+  "shell-version": ["43"],
+  "url": ""
+}
+
